@@ -3,8 +3,8 @@ import base64
 import json
 
 # WooCommerce API credentials
-consumer_key = "ck_a327bd97ae9239ce61188b7ad83c0ebb810ee4d6"
-consumer_secret = "cs_6936c18d64eb70e56b79a8ad8f949d3591fcd5fa"
+consumer_key = "Key_"
+consumer_secret = "Key_"
 
 # URL for WooCommerce API
 url = "https://tossonlibrary.com/wp-json/wc/v3/products"
