@@ -7,9 +7,10 @@ import json
 
 
 def Media(Url,ProductName):
-    user="abdelrahman"
-    pswd="T9RW G2tS QHx2 VTLa mAtL 1OrH"
-    url="https://tossonlibrary.com/wp-json/wp/v2/media/"
+    #add username that in admin board
+    user="User_Name_admin_poard"
+    pswd="Pass_admin_board"
+    url="https://url/wp-json/wp/v2/media/"
 
     auth = user + ":"+pswd
 
